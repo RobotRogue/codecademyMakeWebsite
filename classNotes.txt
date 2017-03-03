@@ -1,0 +1,3 @@
+// https://www.codecademy.com/courses/make-a-website/lessons/site-structure/exercises/html-css?action=lesson_resume
+
+NOTE: These notes are a work in progress.
